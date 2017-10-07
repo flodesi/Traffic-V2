@@ -1,5 +1,5 @@
 /*
- * 
+ * @author Jaden Foldesi <flodesi57@gmail.com>
  */
 package server.utils;
 
