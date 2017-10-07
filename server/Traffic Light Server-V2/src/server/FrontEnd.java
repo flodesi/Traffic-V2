@@ -1,5 +1,9 @@
 package server;
 
+/*
+ * @author Jaden Foldesi <flodesi57@gmail.com>
+*/
+
 import java.awt.*;
 import javax.swing.*;
 import server.utils.Utils;
